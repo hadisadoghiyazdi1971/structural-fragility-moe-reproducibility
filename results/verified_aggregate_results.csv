@@ -1,0 +1,15 @@
+experiment,mode,n,accuracy_or_r2,f1,f2,capability_fragility
+Digits,baseline,10,0.942500,0.135852,0.247417,0.814007
+Digits,random_stress,10,0.946944,0.069465,0.169214,0.496899
+Digits,most_used_stress,10,0.946389,0.079842,0.167267,0.686546
+Digits,load_proportional_stress,10,0.947778,0.056858,0.153348,0.456728
+Digits,fcr,10,0.946111,0.034958,0.143054,0.287309
+Gas_classification,baseline,8,0.971610,0.072689,0.763937,60.536861
+Gas_classification,random_stress,8,0.971430,0.074847,0.438939,34.038312
+Gas_classification,most_used_stress,8,0.970412,0.046397,1.028346,84.935493
+Gas_classification,load_proportional_stress,8,0.964842,0.700179,0.765695,60.683346
+Gas_classification,fcr,8,0.961069,0.053397,1.093573,87.409286
+Gas_regression_original,baseline,5,0.865425,,0.038508,0.764271
+Gas_regression_original,fcr,5,0.853494,,0.081300,2.510958
+Gas_regression_filtered,baseline,5,0.852872,,0.034542,3.058864
+Gas_regression_filtered,fcr,5,0.844531,,0.046990,3.277078

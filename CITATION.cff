@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these pre-publication reproducibility materials, please cite the associated manuscript once published."
+title: "Structural Fragility in Sparse Mixture-of-Experts: Reproducibility Materials"
+type: software
+authors:
+  - family-names: "Sadoghi Yazdi"
+    given-names: "Hadi"
+version: "0.1-prepublication"
+date-released: "2026-09-06"
